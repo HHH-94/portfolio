@@ -15,7 +15,7 @@ This is my personal portfolio website where I showcase my skills, projects, and 
 - Contact
 
 ## 🌐 Live Preview
-Coming soon...
+https://hhh-94.github.io/portfolio/
 
 ## 📌 Notes
 This portfolio will be updated regularly as I build more projects and improve my skills.
