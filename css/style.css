@@ -295,6 +295,11 @@ section {
     color: var(--primary-color);
 }
 
+@media (max-width: 767px) {
+    .footer {
+        padding: 2em .7em;
+    }
+}
 
 
 
